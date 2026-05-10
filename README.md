@@ -2,10 +2,9 @@
 
 Parameter-efficient fine-tuning of `SmolVLM-500M-Instruct` for scientific visual multiple-choice reasoning, built for the [*Pixels to Predictions: DL Vision Challenge*](https://www.kaggle.com/competitions/pixels-to-predictions/overview) on a ScienceQA-derived dataset.
 
-### Authors
-
-- Helin Wang &nbsp;(NetID: `hw4103`)
-- Sichen Li &nbsp;(NetID: `sl12693`)
+> **Authors**
+> - Helin Wang (NetID: hw4103)
+> - Sichen Li (NetID: sl12693)
 
 ## Method overview
 
